@@ -1,0 +1,18 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+tmp/
+
+# 音频文件（太大，自行添加）
+a-mothers-heart.mp3
+
+# Word 源文件
+*.docx
+
+# 编辑器
+.vscode/
+.idea/
